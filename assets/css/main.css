@@ -1,0 +1,13 @@
+body {
+  background: rgba(248, 249, 250);
+}
+
+.header {
+  padding: 15px 50px 0;
+}
+
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
