@@ -11,3 +11,22 @@ body {
   align-items: center;
   justify-content: center;
 }
+.slider img {
+  width: 100vw;
+}
+.logo {
+}
+.logo-title {
+  color: #168cd8;
+  font-size: 24px;
+}
+
+.hakkimizda {
+  padding: 50px 0;
+}
+
+/* Bootstrap */
+
+.navbar-toggler {
+  border: none;
+}
