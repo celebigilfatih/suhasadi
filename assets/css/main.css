@@ -21,9 +21,10 @@ body {
   font-size: 24px;
 }
 
-.hakkimizda {
-  padding: 50px 0;
+.hakkimizda, .teknik, .yararlari {
+  padding: 100px 0;
 }
+
 
 /* Bootstrap */
 
