@@ -1,6 +1,9 @@
 body {
   background: rgba(248, 249, 250);
 }
+a {
+  text-decoration: none;
+}
 
 .header {
   padding: 15px 50px 0;
@@ -25,6 +28,20 @@ body {
   padding: 100px 0;
 }
 
+.footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.footer-logo {
+  width: 16px;
+}
+.footer-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
 
 /* Bootstrap */
 
