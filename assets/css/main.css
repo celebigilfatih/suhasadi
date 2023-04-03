@@ -1,8 +1,29 @@
 body {
   background: rgba(248, 249, 250);
 }
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #002d49;
+}
 a {
   text-decoration: none;
+  color: #003a62;
+}
+p {
+  color: #003a62;
+  margin-bottom: 0;
+}
+.paragragph {
+}
+
+.h3-heading {
+  font-size: 40px;
+  color: #003a62;
 }
 
 .header {
@@ -24,10 +45,18 @@ a {
   font-size: 24px;
 }
 
-.hakkimizda, .teknik, .yararlari {
-  padding: 100px 0;
+.hakkimizda,
+.teknik,
+.yararlari {
+  padding: 150px 0;
 }
 
+.teknik-sayı {
+  font-size: 32px;
+  color: #002943;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
 .footer {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -40,7 +69,13 @@ a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
- 
+
+  color: #168cd8;
+}
+
+.callout-primary {
+  border-left: 3px solid #168cd8;
+  padding-left: 15px;
 }
 
 /* Bootstrap */
