@@ -25,6 +25,14 @@ p {
   font-size: 40px;
   color: #003a62;
 }
+.h3-heading--iletisim {
+  color: white;
+  background: #168cd8;
+  padding: 30px 75px;
+}
+.border10 {
+  border: 10px solid #168cd8;
+}
 
 .header {
   padding: 15px 50px 0;
@@ -35,11 +43,7 @@ p {
   align-items: center;
   justify-content: center;
 }
-.slider img {
-  width: 100vw;
-}
-.logo {
-}
+
 .logo-title {
   color: #168cd8;
   font-size: 24px;
@@ -47,7 +51,7 @@ p {
 
 .hakkimizda,
 .teknik,
-.yararlari {
+.faydalari {
   padding: 150px 0;
 }
 
@@ -78,8 +82,34 @@ p {
   padding-left: 15px;
 }
 
+.fayda {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  column-gap: 50px;
+  row-gap: 150px;
+}
+
+.iletisim-detay {
+  gap: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.slider-img {
+  width: 100vw;
+}
+.gecmisten-img {
+
+  width: 20vw;
+
+}
+
 /* Bootstrap */
 
 .navbar-toggler {
   border: none;
+}
+.navbar-toggler:focus {
+  box-shadow: none;
 }
