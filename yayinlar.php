@@ -1,5 +1,5 @@
 <?php include ("header.php") ?>
-    <section class="yararli-link">
+    <section class="yayinlar">
       <div class="container">
         <div class="row">
           <div class="col-12 mb-5">
@@ -7,19 +7,22 @@
           </div>
           <div class="row mt-5 mb-5 justify-content-center column-gap-3">
            
-              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded">
-                <a href="">
-                  <img src="assets/img/yayinlar1.png" alt="" class="img-fluid" />
+              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded text-center">
+                <a href="https://www.suverimliligi.gov.tr/wp-content/uploads/2023/01/YAGMUR-SUYU-HASADI.pdf">
+                  <img src="assets/img/yayinlar1.png" alt="" class="img-fluid mb-3" />
+                  <strong>Doküman için tıklayınız.!</strong>
                 </a>
               </div>
-              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded">
-                <a href="">
-                  <img src="assets/img/yayinlar2.png" alt="" class="img-fluid" srcset="" />
+              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded text-center">
+                <a href="https://www.suverimliligi.gov.tr/wp-content/uploads/2023/01/GRI-SUYUN-KULLANIMI-Rehber-Dokumani.pdf">
+                  <img src="assets/img/yayinlar2.png" alt="" class="img-fluid mb-3" srcset="" />
+                  <strong>Doküman için tıklayınız.!</strong>
                 </a>
               </div>
-              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded">
-                <a href="">
-                  <img src="assets/img/yayinlar3.png" alt="" class="img-fluid" />
+              <div class="col-lg-3 shadow-lg p-3 mb-5 bg-body-tertiary rounded text-center">
+                <a href="https://www.suverimliligi.gov.tr/wp-content/uploads/2023/01/Kullanilmis-Sularin-Yeniden-Kullanim-Uygulamalarina-Iliskin-Rehber-Dokuman.pdf">
+                  <img src="assets/img/yayinlar3.png" alt="" class="img-fluid mb-3" />
+                  <strong>Doküman için tıklayınız.!</strong>
                 </a>
               </div>
 
