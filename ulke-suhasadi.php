@@ -11,6 +11,25 @@
             </h3>
             <h5>
               <img
+                src="assets/img/germany.png"
+                class="mr-4"
+                width="40"
+                alt=""
+              />
+              ALMANYA
+            </h5>
+            <p class="paragraph mb-2">
+            Yıllık ortalama yağış miktarı 563 mm ile 855 mm arasında değişmektedir. Almanya'da şu anda özellikle yerel yönetim düzeyinde evsel yağmur suyu toplanmasının teşvik edilmesi nedeniyle artan bir ilgi var. Ciddi endüstriyel hava kirliliği ve içme suyu standartlarına ilişkin katı düzenlemeler nedeniyle, evsel yağmur suyu kaynakları, tuvalet sifonu, çamaşır yıkama ve bahçe sulama gibi içilebilir olmayan kullanımlarla sınırlıdır. Yağmur suyu toplama sistemlerini bu şekilde veya sızıntı kuyularıyla birlikte tasarlamanın ana teşvik unsuru, birçok Alman şehrinde ev sahiplerinden yıllık yağmur suyu drenaj ücreti alınmasıdır.
+
+            </p>
+            <p class="paragraph mb-5">
+            Yağmursuyu kullanımı, 1980’li yıllardan itibaren evlerde, kamu binalarında ve sanayi kuruluşlarında kullanıma girmiştir. Ana amaç değerli olan içme suyunu korumaktı, çatılardan toplanan suları kullanarak klozetlerde içme suyu kullanmamaktı. 1990 lardan itibaren bu konudaki teknoloji gelişimi öncü kuruluşlara bırakıldı. Yağmursuyu pazarı, her geçen gün gelişerek devam etti. 1995 Kasım ayında, bu konuya ikna olmuş müşavir firmalar, yağmursuyu hasadı ile ilgilenenler ve diğer ilgili şirketlerin bir araya gelmesi sağlanarak Yağmur Suyu ve Proses Suyu Kullanımı Profesyonel Birliği Frankfurt merkezli olarak kuruldu. 2000 lere doğru bu pazarda 100 den fazla imalatçı firma oluştu. O firmalar bu konuyu en önemli iştigal konusu haline getirdiler. Prefabrik beton tank imalatında Alman piyasasında lider konumundaki Mall-Beton, 1990 – 2000 arasında, 600.000 m3 den daha fazla toplam kapasitede 100.000 den fazla yağmursuyu depolama tankı imal etti.
+          Yağmursuyu uygulamaları, okullarda, araç yıkama merkezlerinde ve kullanma suyu talep eden sanayi kuruluşlarında her geçen gün yaygınlaşıyor. Pekçok şehirde, Hamburg gibi, geçmişte yağmursuyu uygulamalarının tesis edilmesini yaygınlaştırmak için teşvikler ve sübvansiyonlar verildi. 
+
+            </p>
+
+            <h5>
+              <img
                 src="assets/img/bangladesh.png"
                 class="mr-4"
                 width="40"

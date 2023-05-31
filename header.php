@@ -34,6 +34,13 @@
             />
             Su Hasadi
           </a>
+        <div class="menu">
+          <a class="menu-link" href="gecmisten-gunumuze.php">Geçmişten Günümüze</a>
+          <a class="menu-link" href="su-hasadi-yontemleri.php">Su Hasadı Yöntemleri</a>
+          <a class="menu-link" href="ulke-suhasadi.php">Ülke İncelemeleri</a>
+          <a class="menu-link" href="yayinlar.php">Yayınlar</a>
+          <a class="menu-link" href="yararli-linkler.php">Yararlı Linkler</a>
+        </div>
           <button
             class="navbar-toggler"
             type="button"

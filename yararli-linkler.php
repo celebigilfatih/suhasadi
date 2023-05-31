@@ -31,6 +31,18 @@
               >
                 SuTEMA
               </a>
+              <a
+                href="https://www.stormsaver.com/"
+                class="bg-primary text-white py-4 px-3 rounded-1"
+              >
+                Stormsaver
+              </a>
+              <a
+                href="https://watereurope.eu/"
+                class="bg-primary text-white py-4 px-3 rounded-1"
+              >
+                WaterEurope
+              </a>
             </div>
           </div>
         </div>
